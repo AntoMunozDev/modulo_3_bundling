@@ -1,0 +1,17 @@
+$color: #092a5e;
+$bg-color: #f3f0ec;
+
+body {
+    background-color: $bg-color;
+}
+
+h1 {
+    font-size:36px;
+    color: $color;  
+}
+
+#logo {
+    img {
+        max-width: 400px;
+    }
+}
